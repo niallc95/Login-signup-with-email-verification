@@ -136,8 +136,6 @@ section, footer, header, aside{
 }
 
 #success-page a{
-	
-	/* The logout button */
 
 	display:inline-block;
 	padding:10px 30px;
@@ -156,12 +154,6 @@ section, footer, header, aside{
 #success-page a:hover{
 	background-color:#c3c3ea;
 }
-
-
-/*----------------------------
-	The Demo Footer
------------------------------*/
-
 
 footer{
 
